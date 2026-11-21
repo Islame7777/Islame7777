@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Islame Ouhemmou
 
-### AI Engineering Student | Machine Learning | Generative AI | Cybersecurity | Data Engineering
+### AI Engineering Student | Machine Learning | Generative AI | Data Engineering
 
 <p align="center">
   <a href="https://www.linkedin.com/in/islame-ouhemmou-5a7066215/">
