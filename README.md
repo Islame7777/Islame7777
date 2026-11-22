@@ -151,3 +151,10 @@ Some of my main projects include:
 ---
 
 ### 🚀 Building intelligent solutions through AI, cybersecurity, and data.
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Islame7777&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islame7777&layout=compact&theme=tokyonight" />
+</p>
