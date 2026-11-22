@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:7F1D1D,100:D4A017&text=Islame%20Ouhemmou&fontSize=58&fontColor=F5F1E8&animation=fadeIn&desc=AI%20Engineering%20Student%20%7C%20Generative%20AI%20%7C%20Cybersecurity&descSize=20&descAlignY=68" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:7F1D1D,100:B8A99A&text=Islame%20Ouhemmou&fontSize=58&fontColor=F5F1E8&animation=fadeIn&desc=AI%20Engineering%20Student%20%7C%20Generative%20AI%20%7C%20Cybersecurity&descSize=20&descAlignY=68"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=D4A017&center=true&vCenter=true&width=900&lines=Machine+Learning;Generative+AI;Cybersecurity;Data+Engineering;Building+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7F1D1D&center=true&vCenter=true&width=900&lines=Machine+Learning;Generative+AI;Cybersecurity;Data+Engineering;Building+Intelligent+Systems"/>
 </p>
 
 <p align="center">
@@ -16,39 +16,35 @@
   </a>
 
   <a href="https://github.com/Islame7777">
-    <img src="https://img.shields.io/badge/GitHub-D4A017?style=for-the-badge&logo=github&logoColor=0F172A"/>
+    <img src="https://img.shields.io/badge/GitHub-B8A99A?style=for-the-badge&logo=github&logoColor=0F172A"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Oracle%20AI%20Certified-7F1D1D?style=for-the-badge&logo=oracle&logoColor=F5F1E8"/>
-  <img src="https://img.shields.io/badge/IBM%20AI%20%26%20Cybersecurity-0F172A?style=for-the-badge&logo=ibm&logoColor=F5F1E8"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure%20Certified-D4A017?style=for-the-badge&logo=microsoftazure&logoColor=0F172A"/>
+  <img src="https://img.shields.io/badge/Oracle_AI_Certified-7F1D1D?style=for-the-badge&logo=oracle&logoColor=F5F1E8"/>
+
+  <img src="https://img.shields.io/badge/IBM_AI_&_Cybersecurity-0F172A?style=for-the-badge&logo=ibm&logoColor=F5F1E8"/>
+
+  <img src="https://img.shields.io/badge/Microsoft_Azure_Certified-B8A99A?style=for-the-badge&logo=microsoftazure&logoColor=0F172A"/>
 </p>
 
 ---
 
-# 🧬 About Me
+## ━━━ 🧬 About
 
 🎓 Artificial Intelligence Engineering Student at **EMSI Casablanca**
 
-🤖 Passionate about:
-- Machine Learning
-- Generative AI
-- Agentic AI
-- Cybersecurity
-- Data Engineering
+🤖 Passionate about Machine Learning, Generative AI, Agentic AI, Cybersecurity and Data Engineering
 
-🌍 Languages:
-- Arabic
-- French
-- English
+🔐 Certified by Oracle, IBM, Microsoft, Google and Meta
+
+🌍 Languages: Arabic • French • English
 
 📍 Casablanca, Morocco
 
 ---
 
-# 🏆 Featured Certifications
+## ━━━ 🏆 Certifications
 
 - Oracle Fusion AI Agent Studio Certified Foundations Associate
 - IBM Machine Learning with Python
@@ -59,41 +55,41 @@
 
 ---
 
-# 🚀 Featured Projects
+## ━━━ 🚀 Featured Projects
 
-## 🏭 DetectGuard
+### 🏭 DetectGuard
 
 AI-powered industrial monitoring platform combining predictive maintenance, anomaly detection, and cybersecurity for SCADA/OT environments.
 
-**Tech:** Python • TensorFlow • FastAPI • React • Ollama
+**Stack:** Python • TensorFlow • FastAPI • React • Ollama
 
 ---
 
-## 🏥 VigieSan
+### 🏥 VigieSan
 
 Healthcare AI platform combining multimodal RAG, Qdrant vector search, intelligent document analysis, and agentic workflows.
 
-**Tech:** Python • RAG • Qdrant • Docker • Streamlit
+**Stack:** Python • Qdrant • Docker • Streamlit • RAG
 
 ---
 
-## 🏦 Fraud Analytics
+### 🏦 Fraud Analytics
 
-Machine Learning-based banking fraud detection platform focused on risk analysis and suspicious transaction identification.
+Machine Learning-based banking fraud detection platform focused on suspicious transaction detection and risk analysis.
 
-**Tech:** Python • Scikit-Learn • Pandas • Data Analytics
-
----
-
-## 🩺 Clinical Orientation Multi-Agent System
-
-Healthcare multi-agent architecture built with LangGraph, LangChain, FastAPI, React, and Ollama with Human-in-the-Loop validation.
-
-**Tech:** LangGraph • LangChain • FastAPI • React • Ollama
+**Stack:** Python • Scikit-Learn • Pandas • Data Analytics
 
 ---
 
-# 🛠 Tech Stack
+### 🩺 Clinical Orientation Multi-Agent System
+
+Multi-agent healthcare platform built with LangGraph, LangChain, FastAPI, React, and Ollama.
+
+**Stack:** LangGraph • LangChain • FastAPI • React • Ollama
+
+---
+
+## ━━━ 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,react,laravel,fastapi,tensorflow,pytorch,docker,azure,git,github,linux,mysql,neo4j&theme=dark" />
@@ -101,29 +97,28 @@ Healthcare multi-agent architecture built with LangGraph, LangChain, FastAPI, Re
 
 ---
 
-# 📊 GitHub Stats
+## ━━━ 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Islame7777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Islame7777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islame7777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islame7777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A"/>
 </p>
 
 ---
 
-# 📚 Current Interests
+## ━━━ 📚 Current Interests
 
 - Agentic AI Systems
-- LLM Applications
-- Industrial AI
 - Healthcare AI
+- Industrial AI
 - Cybersecurity
 - Data Engineering
-- Intelligent Automation
+- Large Language Models
 
 ---
 
-# 📌 Highlight Repositories
+## ━━━ 📌 Highlight Repositories
 
 - DetectGuard
 - VigieSan
@@ -135,5 +130,5 @@ Healthcare multi-agent architecture built with LangGraph, LangChain, FastAPI, Re
 ---
 
 <p align="center">
-  <b>🚀 Building intelligent systems through AI, cybersecurity, and data.</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8A99A,50:7F1D1D,100:0F172A&height=120&section=footer&text=Building%20Intelligent%20Systems&fontSize=24&fontColor=F5F1E8"/>
 </p>
