@@ -1,41 +1,54 @@
-# 👋 Hi, I'm Islame Ouhemmou
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:7F1D1D,100:D4A017&text=Islame%20Ouhemmou&fontSize=58&fontColor=F5F1E8&animation=fadeIn&desc=AI%20Engineering%20Student%20%7C%20Generative%20AI%20%7C%20Cybersecurity&descSize=20&descAlignY=68" />
+</p>
 
-### AI Engineering Student | Machine Learning | Generative AI | Data Engineering
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=D4A017&center=true&vCenter=true&width=900&lines=Machine+Learning;Generative+AI;Cybersecurity;Data+Engineering;Building+Intelligent+Systems" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/islame-ouhemmou-5a7066215/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=F5F1E8"/>
   </a>
 
   <a href="mailto:islame.ouh07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-7F1D1D?style=for-the-badge&logo=gmail&logoColor=F5F1E8"/>
   </a>
 
   <a href="https://github.com/Islame7777">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-D4A017?style=for-the-badge&logo=github&logoColor=0F172A"/>
   </a>
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7F1D1D,100:D4A017&height=240&section=header&text=Islame%20Ouhemmou&fontSize=60&fontColor=F5F1E8&animation=fadeIn&desc=Artificial%20Intelligence%20Engineering%20Student&descSize=20&descAlignY=65"/>
+  <img src="https://img.shields.io/badge/Oracle%20AI%20Certified-7F1D1D?style=for-the-badge&logo=oracle&logoColor=F5F1E8"/>
+  <img src="https://img.shields.io/badge/IBM%20AI%20%26%20Cybersecurity-0F172A?style=for-the-badge&logo=ibm&logoColor=F5F1E8"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure%20Certified-D4A017?style=for-the-badge&logo=microsoftazure&logoColor=0F172A"/>
 </p>
----
-
-## 🧬 About Me
-
-🎓 Artificial Intelligence Engineering Student at EMSI Casablanca
-
-🤖 Passionate about Machine Learning, Generative AI, Agentic AI, Data Engineering, and Intelligent Systems
-
-🔐 Certified in Cybersecurity, Artificial Intelligence, Cloud Technologies, and Data Science
-
-🌍 Fluent in Arabic, French, and English
-
-📍 Based in Casablanca, Morocco
 
 ---
 
-## 🏆 Featured Certifications
+# 🧬 About Me
+
+🎓 Artificial Intelligence Engineering Student at **EMSI Casablanca**
+
+🤖 Passionate about:
+- Machine Learning
+- Generative AI
+- Agentic AI
+- Cybersecurity
+- Data Engineering
+
+🌍 Languages:
+- Arabic
+- French
+- English
+
+📍 Casablanca, Morocco
+
+---
+
+# 🏆 Featured Certifications
 
 - Oracle Fusion AI Agent Studio Certified Foundations Associate
 - IBM Machine Learning with Python
@@ -46,123 +59,81 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🏭 DetectGuard
+## 🏭 DetectGuard
 
-AI-powered industrial monitoring platform combining predictive maintenance, anomaly detection, and cybersecurity for SCADA/OT environments, enhanced with intelligent decision support.
+AI-powered industrial monitoring platform combining predictive maintenance, anomaly detection, and cybersecurity for SCADA/OT environments.
 
-**Technologies:** Python, TensorFlow, FastAPI, React, Ollama, Deep Learning
-
----
-
-### 🏥 VigieSan
-
-Healthcare AI platform combining multimodal RAG, Qdrant vector search, intelligent document analysis, and future agentic workflows for evidence-based medical assistance.
-
-**Technologies:** Python, Qdrant, Docker, Streamlit, RAG, AI
+**Tech:** Python • TensorFlow • FastAPI • React • Ollama
 
 ---
 
-### 🏦 Fraud Analytics
+## 🏥 VigieSan
 
-Machine Learning platform developed for banking fraud detection, risk analysis, and suspicious transaction identification.
+Healthcare AI platform combining multimodal RAG, Qdrant vector search, intelligent document analysis, and agentic workflows.
 
-**Technologies:** Python, Scikit-Learn, Pandas, Data Analytics
-
----
-
-### 🩺 Clinical Orientation Multi-Agent System
-
-Multi-agent healthcare platform built with LangGraph, LangChain, FastAPI, React, and Ollama featuring Human-in-the-Loop validation.
-
-**Technologies:** LangGraph, LangChain, FastAPI, React, Ollama
+**Tech:** Python • RAG • Qdrant • Docker • Streamlit
 
 ---
 
-## 🛠️ Tech Stack
+## 🏦 Fraud Analytics
 
-### Programming Languages
+Machine Learning-based banking fraud detection platform focused on risk analysis and suspicious transaction identification.
 
-- Python
-- Java
-- C++
-- JavaScript
-- PHP
-
-### Artificial Intelligence
-
-- Machine Learning
-- Deep Learning
-- TensorFlow
-- PyTorch
-- Generative AI
-- RAG
-- Agentic AI
-
-### Frameworks & Tools
-
-- FastAPI
-- React
-- Laravel
-- Streamlit
-- Docker
-- Git
-- GitHub
-
-### Databases
-
-- MySQL
-- Neo4j
-- Qdrant
-
-### Cloud & Platforms
-
-- Microsoft Azure
-- Linux
-- Apache Kafka
-- Apache Airflow
-- MinIO
+**Tech:** Python • Scikit-Learn • Pandas • Data Analytics
 
 ---
 
-## 📚 Current Interests
+## 🩺 Clinical Orientation Multi-Agent System
 
-- Healthcare AI
-- Industrial AI
+Healthcare multi-agent architecture built with LangGraph, LangChain, FastAPI, React, and Ollama with Human-in-the-Loop validation.
+
+**Tech:** LangGraph • LangChain • FastAPI • React • Ollama
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,react,laravel,fastapi,tensorflow,pytorch,docker,azure,git,github,linux,mysql,neo4j&theme=dark" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Islame7777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islame7777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A" />
+</p>
+
+---
+
+# 📚 Current Interests
+
 - Agentic AI Systems
 - LLM Applications
+- Industrial AI
+- Healthcare AI
 - Cybersecurity
 - Data Engineering
 - Intelligent Automation
 
 ---
 
-## 📈 GitHub Repositories
-
-Some of my main projects include:
+# 📌 Highlight Repositories
 
 - DetectGuard
 - VigieSan
 - Fraud Analytics
 - Clinical Orientation Multi-Agent System
-- Smart Planner
+- Neural Networks & Deep Learning
 - Medallion Data Pipeline
-- BioRed
-- LuxuryDrive
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Islame7777&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islame7777&layout=compact&theme=tokyonight" />
+  <b>🚀 Building intelligent systems through AI, cybersecurity, and data.</b>
 </p>
-
-
-
-
-### 🚀 Building intelligent solutions through AI, cybersecurity, and data.
-
-
