@@ -16,6 +16,11 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle-AI%20Certified-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IBM-AI%20%26%20Cybersecurity-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20Certified-0078D4?style=for-the-badge"/>
+</p>
 ---
 
 ## 🧬 About Me
