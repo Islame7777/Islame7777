@@ -28,13 +28,6 @@
   <img src="https://img.shields.io/badge/Microsoft_Azure_Certified-B8A99A?style=for-the-badge&logo=microsoftazure&logoColor=0F172A"/>
 </p>
 
-<!-- Badges officiels Oracle et IBM : depose les images dans le dossier assets/ avec ces noms exacts -->
-<p align="center">
-  <img src="assets/oracle-badge.png" height="110" alt="Oracle AI badge" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/ibm-badge.png" height="110" alt="IBM badge" />
-</p>
-
 <p align="center">
   <b>
     <a href="#about">About</a> &nbsp;·&nbsp;
@@ -49,7 +42,7 @@
 
 <!-- ========================= ABOUT ========================= -->
 <a id="about"></a>
-<p align="center"><img src="assets/section-about.svg" width="100%" alt="About Me" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:7F1D1D,100:B8A99A&height=90&section=header&text=About%20Me&fontSize=34&fontColor=F5F1E8&animation=twinkling&fontAlignY=50" width="100%" alt="About Me" /></p>
 
 <p align="center">
   <b>Turning data into intelligent systems.</b>
@@ -124,7 +117,7 @@
 
 <!-- ======================= EXPERIENCE ======================= -->
 <a id="experience"></a>
-<p align="center"><img src="assets/section-experience.svg" width="100%" alt="Experience" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:7F1D1D,100:B8A99A&height=90&section=header&text=Experience&fontSize=34&fontColor=F5F1E8&animation=twinkling&fontAlignY=50" width="100%" alt="Experience" /></p>
 
 <table align="center" width="100%">
   <tr>
@@ -176,7 +169,7 @@
 
 <!-- ========================= PROJECTS ========================= -->
 <a id="projects"></a>
-<p align="center"><img src="assets/section-projects.svg" width="100%" alt="Projects" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:7F1D1D,100:B8A99A&height=90&section=header&text=Projects&fontSize=34&fontColor=F5F1E8&animation=twinkling&fontAlignY=50" width="100%" alt="Projects" /></p>
 
 <!-- Remplace chaque lien ci-dessous par l'URL de ton repo (ex: https://github.com/Islame7777/detectguard) -->
 <table align="center" width="100%">
@@ -258,7 +251,7 @@
 
 <!-- ========================= SKILLS ========================= -->
 <a id="skills"></a>
-<p align="center"><img src="assets/section-skills.svg" width="100%" alt="Skills" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:7F1D1D,100:B8A99A&height=90&section=header&text=Skills&fontSize=34&fontColor=F5F1E8&animation=twinkling&fontAlignY=50" width="100%" alt="Skills" /></p>
 
 <table align="center" width="100%">
   <tr>
@@ -314,19 +307,19 @@
 
 <!-- ====================== CERTIFICATIONS ====================== -->
 <a id="certifications"></a>
-<p align="center"><img src="assets/section-certifications.svg" width="100%" alt="Certifications" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:7F1D1D,100:B8A99A&height=90&section=header&text=Certifications&fontSize=34&fontColor=F5F1E8&animation=twinkling&fontAlignY=50" width="100%" alt="Certifications" /></p>
 
 <table align="center" width="100%">
   <tr>
     <td width="33%" align="center" valign="top">
       <img src="https://img.shields.io/badge/Oracle-7F1D1D?style=for-the-badge&logo=oracle&logoColor=F5F1E8" alt="Oracle" /><br /><br />
       <b>Oracle Fusion AI Agent Studio<br />Foundations Associate</b><br />
-      <sub>Oracle University · Oct. 2026<br /><a href="LIEN_DU_BADGE_ORACLE">view badge</a></sub>
+      <sub>Oracle University · Oct. 2026</sub>
     </td>
     <td width="33%" align="center" valign="top">
       <img src="https://img.shields.io/badge/IBM-0F172A?style=for-the-badge&logo=ibm&logoColor=F5F1E8" alt="IBM" /><br /><br />
-      <b>NOM EXACT DE LA CERTIF IBM</b><br />
-      <sub>IBM · ANNEE<br /><a href="LIEN_DU_BADGE_IBM">view badge</a></sub>
+      <b>IBM AI &amp; Cybersecurity</b><br />
+      <sub>IBM</sub>
     </td>
     <td width="33%" align="center" valign="top">
       <img src="https://img.shields.io/badge/Microsoft-B8A99A?style=for-the-badge&logo=microsoftazure&logoColor=0F172A" alt="Microsoft Azure" /><br /><br />
@@ -377,7 +370,7 @@
 
 <!-- ========================== STATS ========================== -->
 <a id="stats"></a>
-<p align="center"><img src="assets/section-stats.svg" width="100%" alt="GitHub Stats" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:7F1D1D,100:B8A99A&height=90&section=header&text=GitHub%20Stats&fontSize=34&fontColor=F5F1E8&animation=twinkling&fontAlignY=50" width="100%" alt="GitHub Stats" /></p>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Islame7777&show_icons=true&hide_border=true&bg_color=0F172A&title_color=B8A99A&text_color=F5F1E8&icon_color=B8A99A&ring_color=7F1D1D" alt="GitHub stats" />
@@ -389,7 +382,7 @@
 
 <!-- ========================= CONTACT ========================= -->
 <a id="contact"></a>
-<p align="center"><img src="assets/section-contact.svg" width="100%" alt="Let's Connect" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:7F1D1D,100:B8A99A&height=90&section=header&text=Let%27s%20Connect&fontSize=34&fontColor=F5F1E8&animation=twinkling&fontAlignY=50" width="100%" alt="Let's Connect" /></p>
 
 <p align="center"><b>An AI, data or cybersecurity project? A PFE opportunity? Let's talk.</b></p>
 
@@ -399,4 +392,4 @@
   <a href="https://github.com/Islame7777"><img src="https://img.shields.io/badge/Follow-B8A99A?style=for-the-badge&logo=github&logoColor=0F172A" alt="GitHub" /></a>
 </p>
 
-<p align="center"><img src="assets/footer.svg" width="100%" alt="Building intelligent systems" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8A99A,50:7F1D1D,100:0F172A&height=140&section=footer&text=Building%20intelligent%20systems&fontSize=26&fontColor=F5F1E8&fontAlignY=62&animation=twinkling" width="100%" alt="Building intelligent systems" /></p>
